@@ -1,5 +1,3 @@
-# Face-Recognition-Attendance-System
-
 ##  Hello, Sir/Ma'am 
 
 1. Name - Vinayak Sahu
@@ -12,7 +10,10 @@
 2. This is based on OpenCv-Py and FR-Py.
 
 ## 2. Features:
-1. 
+
+1. In this application we can track attendance of employees and visitors .
+2. We can  add and delete profiles of employees and visitors.
+3. We can  see at a given time which employees are present and which are absent.
 
 ## 3. How to run?
 
